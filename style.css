@@ -8,6 +8,7 @@
 }
 
 body {
+  margin: 0;
   font-family: "Outfit", sans-serif;
   background-color: var(--light-gray);
   display: grid;
@@ -19,7 +20,7 @@ article {
   background-color: var(--white);
   border-radius: 20px;
   width: 320px;
-  /* height: 500px; */
+  height: 500px;
   padding: 16px;
   padding-bottom: 44px;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05);
